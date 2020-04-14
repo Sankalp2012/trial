@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="head">heading</string>
+    <string name="title_activity_nsup">nsup</string>
+    <string name="name">name</string>
+    <string name="roll_number">roll number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="e_mail_id">E-mail id</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="course">course</string>
+    <string name="year">year</string>
+    <string name="national_service_scheme">National Service Scheme</string>
+    <string name="size">32sp</string>
+    <string name="login_id">login id</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign in</string>
+    <string name="new_user_sign_up">new user sign up</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="not_me_but_you">Not Me But You</string>
+    <string name="NSS">NSS</string>
+    <string name="Nss">National Service Scheme</string>
+    <string name="designation">designation</string>
+    <string-array name="course">
+        <item>Ba Program</item>
+        <item>Ba(Hons) History</item>
+        <item>Ba(Hons) Geography</item>
+    </string-array>
+</resources>
